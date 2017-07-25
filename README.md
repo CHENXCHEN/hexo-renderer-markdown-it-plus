@@ -41,6 +41,12 @@ markdown_it_plus:
     quotes: “”‘’
 ```
 
+## Katex
+
+Katex plugin is enable default, if you want to disable it, skiped this paragraph.
+if you want to use katex, you must add this css style into your website:
+`https://cdn.bootcss.com/KaTeX/0.7.1/katex.min.css`
+
 ## Advanced Options
 The plugins of markdown-it above is enable default, if you want to disable it, see below configuration:
 ```yml
