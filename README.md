@@ -71,11 +71,13 @@ Default enable plugins:
 `markdown-it-toc-and-anchor`
 
 ## Add other `markdown-it` Plugins
-If you want to add a plugin name `markdown-it-something`:
+If you want to add a plugin name `markdown-it-something`:  
+
 1.Install this plugin
 ```javascript
 npm install markdown-it-something --save
 ```
+
 2.config main hexo `_config.yml`
 ```yml
 markdown_it_plus:
