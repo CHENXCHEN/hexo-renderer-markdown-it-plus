@@ -2,8 +2,8 @@
 
 This renderer plugin uses Markdown-it as a render engine on Hexo.
 
-    This renderer plugin is forked from [hexo-renderer-markdown-it](https://github.com/hexojs/hexo-renderer-markdown-it/blob/master/lib/renderer.js).
-    Add some plugin and support thirid-part `markdown-it` plugin.
+This renderer plugin is forked from [hexo-renderer-markdown-it](https://github.com/hexojs/hexo-renderer-markdown-it/blob/master/lib/renderer.js).
+Add some plugin and support thirid-part `markdown-it` plugin.
 
 ## Main Features
 + Support for Markdown
