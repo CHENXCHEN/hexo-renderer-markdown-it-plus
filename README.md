@@ -11,7 +11,7 @@ Add some plugin and support thirid-part `markdown-it` plugin.
 + Faster than the default renderer | hexo-renderer-marked
 + [sub](https://www.npmjs.com/package/markdown-it-sub), `H~2~0` H<sub>2</sub>0
 + [sup](https://www.npmjs.com/package/markdown-it-sup), `x^2^` x<sup>2</sup>
-+ [ins](https://www.npmjs.com/package/markdown-it-ins), `++Inserted++` <ins>Inserted</ins>
++ [ins](https://www.npmjs.com/package/markdown-it-ins), `++Inserted++` <ins>Inserted</ins>, `~~Del~~` <s>Del</s>
 + [Katex](https://www.npmjs.com/package/markdown-it-katex), [referer](https://github.com/Khan/KaTeX)
 + [emoji](https://www.npmjs.com/package/markdown-it-emoji), [referer](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
 + [toc&anchor](https://www.npmjs.com/package/markdown-it-toc-and-anchor)
