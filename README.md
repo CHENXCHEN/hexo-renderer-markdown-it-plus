@@ -39,6 +39,7 @@ markdown_it_plus:
     linkify: true
     typographer:
     quotes: “”‘’
+    pre_class: highlight
 ```
 
 ## Katex
@@ -95,3 +96,7 @@ markdown_it_plus:
             options:
                 # this is plugin option
 ```
+
+## LOG
+
++ **1.0.1** Add `pre_class` option.
