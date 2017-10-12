@@ -100,3 +100,4 @@ markdown_it_plus:
 ## LOG
 
 + **1.0.1** Add `pre_class` option.
++ **1.0.2** Add `highlight.js` pakage to dependencies[#2](https://github.com/CHENXCHEN/hexo-renderer-markdown-it-plus/issues/2).
