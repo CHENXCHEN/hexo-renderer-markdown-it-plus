@@ -3,7 +3,7 @@
 This renderer plugin uses Markdown-it as a render engine on Hexo.
 
 This renderer plugin is forked from [hexo-renderer-markdown-it](https://github.com/hexojs/hexo-renderer-markdown-it/blob/master/lib/renderer.js).
-Add some plugin and support thirid-part `markdown-it` plugin.
+Add some plugins and support third-part `markdown-it` plugin.
 
 ## Main Features
 + Support for Markdown
@@ -44,12 +44,11 @@ markdown_it_plus:
 
 ## Katex
 
-Katex plugin is enable default, if you want to disable it, skiped this paragraph.
-if you want to use katex, you must add this css style into your website:
+Katex plugin is enabled by default. However, this renderer alone does not work out of the box for mathematical formulas to display correctly on your website. Therefore, you do not need to do anything if you do not want to use Katex. Otherwise, if you want to use katex, you must add this css style to your website:
 `https://cdn.bootcss.com/KaTeX/0.7.1/katex.min.css`
 
 ## Advanced Options
-The plugins of markdown-it above is enable default, if you want to disable it, see below configuration:
+The markdown-it plugins listed above is enabled by default. If you want to disable any plugin, see the configuration example below:
 ```yml
 markdown_it_plus:
     highlight: true
@@ -65,7 +64,7 @@ markdown_it_plus:
             name: markdown-it-mark
             enable: false
 ```
-Default enable plugins:
+plugins enabled by default:
 `markdown-it-emoji`
 `markdown-it-sub`
 `markdown-it-sup`
@@ -78,7 +77,7 @@ Default enable plugins:
 `markdown-it-toc-and-anchor`
 
 ## Add other `markdown-it` Plugins
-If you want to add a plugin name `markdown-it-something`:  
+If you want to add a plugin named as `markdown-it-something`:  
 
 1.Install this plugin
 ```javascript
