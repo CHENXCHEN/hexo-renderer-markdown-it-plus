@@ -1,6 +1,6 @@
 {
   "name": "hexo-renderer-markdown-it-plus",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A faster and CommonMark compliant alternative for Hexo.",
   "main": "index.js",
   "scripts": {
@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/CHENXCHEN/hexo-renderer-markdown-it-plus#readme",
   "dependencies": {
+    "@iktakahiro/markdown-it-katex": "^3.0.3",
     "clone": "^2.1.1",
     "highlight.js": "^9.12.0",
     "markdown-it": "^8.3.1",
@@ -31,7 +32,6 @@
     "markdown-it-emoji": "^1.4.0",
     "markdown-it-footnote": "^3.0.1",
     "markdown-it-ins": "^2.0.0",
-    "markdown-it-katex": "^2.0.3",
     "markdown-it-mark": "^2.0.0",
     "markdown-it-sub": "^1.0.0",
     "markdown-it-sup": "^1.0.0",
