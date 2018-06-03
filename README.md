@@ -16,7 +16,7 @@ This is [demo project](https://github.com/CHENXCHEN/hexo-renderer-markdown-it-pl
 + [ins](https://www.npmjs.com/package/markdown-it-ins), `++Inserted++` <ins>Inserted</ins>, `~~Del~~` <s>Del</s>
 + [Katex](https://www.npmjs.com/package/@iktakahiro/markdown-it-katex), [referer](https://github.com/Khan/KaTeX)
 + [emoji](https://www.npmjs.com/package/markdown-it-emoji), [referer](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
-+ [toc&anchor](https://www.npmjs.com/package/markdown-it-toc-and-anchor)
++ [toc&anchor](https://www.npmjs.com/package/markdown-it-toc-and-anchor) `@[toc]`
 + [deflist](http://pandoc.org/MANUAL.html#definition-lists)
 + [abbr](https://www.npmjs.com/package/markdown-it-abbr)
 + [footnote](https://www.npmjs.com/package/markdown-it-footnote)
