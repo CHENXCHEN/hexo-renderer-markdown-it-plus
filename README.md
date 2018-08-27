@@ -103,3 +103,4 @@ markdown_it_plus:
 + **1.0.1** Add `pre_class` option.
 + **1.0.2** Add `highlight.js` pakage to dependencies[#2](https://github.com/CHENXCHEN/hexo-renderer-markdown-it-plus/issues/2).
 + **1.0.3** Update `katex` plugin, using `katex 0.9`
++ **1.0.4** PR [#17](https://github.com/CHENXCHEN/hexo-renderer-markdown-it-plus/pull/17)
