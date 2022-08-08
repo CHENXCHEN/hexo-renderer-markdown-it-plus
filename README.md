@@ -105,3 +105,4 @@ markdown_it_plus:
 + **1.0.3** Update `katex` plugin, using `katex 0.9`
 + **1.0.4** PR [#17](https://github.com/CHENXCHEN/hexo-renderer-markdown-it-plus/pull/17)
 + **1.0.5** upgrade dependencies for @iktakahiro/markdown-it-katex@4.0.1, highlight.js@11.5.1, markdown-it@13.0.1, and others markdown-it plugins version...
++ **1.0.6** PR [#34](https://github.com/CHENXCHEN/hexo-renderer-markdown-it-plus/pull/34)
